@@ -1,5 +1,9 @@
 # Sprutter
-Sprite sheet gutter plugin for The Gimp with automatic generation of LibGDX atlases files.
+Takes a heavily-packed sprite sheet with no padding between sprites/tiles and adds padding or spacing. Can also create a "gutter" around seamless tiles, filling the padding with the tile's edge pixels, preventing seams from appearing when using the tile in a 3D rendering environment due to interpolation.
+
+Can also remove padding/spacing from a sprite sheet.
+
+Optionally it can generate an ".atlas" file to be used with LibGDX Asset Manager.
 
 # Install
 1. Once you have downloaded the scripts, copy or move them to one of your Plugins directories. Plugin folders can be found in the Preferences: Folders → Plug-Ins.
