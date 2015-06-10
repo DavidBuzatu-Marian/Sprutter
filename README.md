@@ -2,13 +2,13 @@
 Sprite sheet gutter plugin for The Gimp with automatic generation of LibGDX atlases files.
 
 # Install
-1) Once you have downloaded the scripts, copy or move them to one of your Plugins directories. Plugin folders can be found in the Preferences: Folders → Plug-Ins.
-2) Open or Restart The Gimp.
+1. Once you have downloaded the scripts, copy or move them to one of your Plugins directories. Plugin folders can be found in the Preferences: Folders → Plug-Ins.
+2. Open or Restart The Gimp.
 
 # Usage
-1) Open the desired sprite sheet in which you want to add the gutter.
-2) From the menus select Filters → Sprite Sheet → Add/Remove Gutter.
-3) Choose your settings and press "OK".
+1. Open the desired sprite sheet in which you want to add the gutter.
+2. From the menus select Filters → Sprite Sheet → Add/Remove Gutter.
+3. Choose your settings and press "OK".
 
 # License & Credits
 Version 1.1
